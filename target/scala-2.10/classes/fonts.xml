@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fontFamilies>
+
+    <fontFamily name="DejaVu Sans">
+        <normal>net/sf/jasperreports/fonts/dejavu/DejaVuSans.ttf</normal>
+        <bold>net/sf/jasperreports/fonts/dejavu/DejaVuSans-Bold.ttf</bold>
+        <italic>net/sf/jasperreports/fonts/dejavu/DejaVuSans-Oblique.ttf</italic>
+        <!--<boldItalic>resources/DejaVuSans-BoldOblique.ttf</boldItalic>-->
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+        <exportFonts>
+            <export key="net.sf.jasperreports.html">'DejaVu Sans', Arial, Helvetica, sans-serif</export>
+            <export key="net.sf.jasperreports.xhtml">'DejaVu Sans', Arial, Helvetica, sans-serif</export>
+        </exportFonts>
+    </fontFamily>
+
+    <fontFamily name="宋体">
+        <normal>net/sf/jasperreports/fonts/dejavu/simsun.ttf</normal>
+        <bold>net/sf/jasperreports/fonts/dejavu/DejaVuSans-Bold.ttf</bold>
+        <italic>net/sf/jasperreports/fonts/dejavu/DejaVuSans-Oblique.ttf</italic>
+        <!--<boldItalic>resources/DejaVuSans-BoldOblique.ttf</boldItalic>-->
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+        <exportFonts>
+            <export key="net.sf.jasperreports.html">'宋体', Arial, Helvetica, sans-serif</export>
+            <export key="net.sf.jasperreports.xhtml">'宋体', Arial, Helvetica, sans-serif</export>
+        </exportFonts>
+    </fontFamily>
+
+    <fontFamily name="Courier">
+        <normal>net/sf/jasperreports/fonts/dejavu/cour.ttf</normal>
+        <bold>net/sf/jasperreports/fonts/dejavu/courbd.ttf</bold>
+        <italic>net/sf/jasperreports/fonts/dejavu/couri.ttf</italic>
+        <boldItalic>net/sf/jasperreports/fonts/dejavu/courbi.ttf</boldItalic>
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+        <exportFonts>
+            <export key="net.sf.jasperreports.html">'Courier', Arial, Helvetica, sans-serif</export>
+            <export key="net.sf.jasperreports.xhtml">'Courier', Arial, Helvetica, sans-serif</export>
+        </exportFonts>
+    </fontFamily>
+</fontFamilies>
